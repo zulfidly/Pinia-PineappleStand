@@ -1,6 +1,5 @@
 # [Pinia](https://pinia.vuejs.org/), The Enjoyable Vue Store 
 
-![](/images/Pinia-logo.png)
 ![](/dist/images/Pinia-logo.png)
 [View at Netlify](https://gleeful-souffle-56603a.netlify.app/)
 [Tutorial by](https://vueschool.io/courses/pinia-the-enjoyable-vue-store)
