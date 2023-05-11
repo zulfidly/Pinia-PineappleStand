@@ -1,17 +1,19 @@
-# Pinia, The Enjoyable Vue Store 
-## Boilerplate Code
+# [Pinia](https://pinia.vuejs.org/), The Enjoyable Vue Store 
 
+[P](/assets/pinia-logo.png)
+[View at Netlify](https://gleeful-souffle-56603a.netlify.app/)
+[Tutorial by](https://vueschool.io/courses/pinia-the-enjoyable-vue-store)
 
+## Understanding of 
+- 
 
 ## How to Use
 
 ```
-npx degit  vueschool/pinia-course-boilerplate 
+npx degit vueschool/pinia-course-boilerplate 
 ```
 ```
 npm install
 npm run dev
 npm run build
 ```
-
-[Checkout the course!](https://vueschool.io/courses/pinia-the-enjoyable-vue-store)
