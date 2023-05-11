@@ -1,7 +1,7 @@
 # [The Pineapple Stand](https://gleeful-souffle-56603a.netlify.app/)
 - a coding practice on [Vue 3](https://vuejs.org/guide/introduction.html) Composition & [Pinia](https://pinia.vuejs.org/) state management
 
-![Pinia logo](/dist/images/Pinia-logo-sm.png)
+![Pinia logo](/dist/images/logos.png)
 - a tutorial by [vueschool.io](https://vueschool.io/courses/pinia-the-enjoyable-vue-store)
 
 ## Pinia integration
